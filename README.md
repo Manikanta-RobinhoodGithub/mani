@@ -1,0 +1,2 @@
+# mani
+To learn Github 
